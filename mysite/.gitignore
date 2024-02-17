@@ -1,0 +1,20 @@
+#Environment Folder
+dj/
+
+#MacOS generated files
+.idea/
+*/.idea/
+
+#Python generated cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+db.sqlite3
+
+
+#Add environment files
+.env
+
+__pycache__
